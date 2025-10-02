@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vehicles>
+  <Car>
+    <Brand>Toyota</Brand>
+    <Model>Corolla</Model>
+    <HorsePower>150</HorsePower>
+  </Car>
+  <Car>
+    <Brand>Honda</Brand>
+    <Model>Civic</Model>
+    <HorsePower>140</HorsePower>
+  </Car>
+  <Car>
+    <Brand>Ford</Brand>
+    <Model>Focus</Model>
+    <HorsePower>160</HorsePower>
+  </Car>
+</Vehicles>
