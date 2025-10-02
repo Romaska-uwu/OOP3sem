@@ -1,0 +1,28 @@
+D:\yes\2 курс\3 sem\ООП\Лабы\lab01\lab01\bin\Debug\net8.0\lab01.exe
+D:\yes\2 курс\3 sem\ООП\Лабы\lab01\lab01\bin\Debug\net8.0\lab01.deps.json
+D:\yes\2 курс\3 sem\ООП\Лабы\lab01\lab01\bin\Debug\net8.0\lab01.runtimeconfig.json
+D:\yes\2 курс\3 sem\ООП\Лабы\lab01\lab01\bin\Debug\net8.0\lab01.dll
+D:\yes\2 курс\3 sem\ООП\Лабы\lab01\lab01\bin\Debug\net8.0\lab01.pdb
+D:\yes\2 курс\3 sem\ООП\Лабы\lab01\lab01\obj\Debug\net8.0\lab01.GeneratedMSBuildEditorConfig.editorconfig
+D:\yes\2 курс\3 sem\ООП\Лабы\lab01\lab01\obj\Debug\net8.0\lab01.AssemblyInfoInputs.cache
+D:\yes\2 курс\3 sem\ООП\Лабы\lab01\lab01\obj\Debug\net8.0\lab01.AssemblyInfo.cs
+D:\yes\2 курс\3 sem\ООП\Лабы\lab01\lab01\obj\Debug\net8.0\lab01.csproj.CoreCompileInputs.cache
+D:\yes\2 курс\3 sem\ООП\Лабы\lab01\lab01\obj\Debug\net8.0\lab01.dll
+D:\yes\2 курс\3 sem\ООП\Лабы\lab01\lab01\obj\Debug\net8.0\refint\lab01.dll
+D:\yes\2 курс\3 sem\ООП\Лабы\lab01\lab01\obj\Debug\net8.0\lab01.pdb
+D:\yes\2 курс\3 sem\ООП\Лабы\lab01\lab01\obj\Debug\net8.0\lab01.genruntimeconfig.cache
+D:\yes\2 курс\3 sem\ООП\Лабы\lab01\lab01\obj\Debug\net8.0\ref\lab01.dll
+D:\3semestr\OOP\lab01\lab01\bin\Debug\net8.0\lab01.exe
+D:\3semestr\OOP\lab01\lab01\bin\Debug\net8.0\lab01.deps.json
+D:\3semestr\OOP\lab01\lab01\bin\Debug\net8.0\lab01.runtimeconfig.json
+D:\3semestr\OOP\lab01\lab01\bin\Debug\net8.0\lab01.dll
+D:\3semestr\OOP\lab01\lab01\bin\Debug\net8.0\lab01.pdb
+D:\3semestr\OOP\lab01\lab01\obj\Debug\net8.0\lab01.GeneratedMSBuildEditorConfig.editorconfig
+D:\3semestr\OOP\lab01\lab01\obj\Debug\net8.0\lab01.AssemblyInfoInputs.cache
+D:\3semestr\OOP\lab01\lab01\obj\Debug\net8.0\lab01.AssemblyInfo.cs
+D:\3semestr\OOP\lab01\lab01\obj\Debug\net8.0\lab01.csproj.CoreCompileInputs.cache
+D:\3semestr\OOP\lab01\lab01\obj\Debug\net8.0\lab01.dll
+D:\3semestr\OOP\lab01\lab01\obj\Debug\net8.0\refint\lab01.dll
+D:\3semestr\OOP\lab01\lab01\obj\Debug\net8.0\lab01.pdb
+D:\3semestr\OOP\lab01\lab01\obj\Debug\net8.0\lab01.genruntimeconfig.cache
+D:\3semestr\OOP\lab01\lab01\obj\Debug\net8.0\ref\lab01.dll
