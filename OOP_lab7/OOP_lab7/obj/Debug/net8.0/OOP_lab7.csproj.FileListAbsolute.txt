@@ -1,0 +1,14 @@
+D:\3semestr\OOP\OOP_lab7\OOP_lab7\bin\Debug\net8.0\OOP_lab7.exe
+D:\3semestr\OOP\OOP_lab7\OOP_lab7\bin\Debug\net8.0\OOP_lab7.deps.json
+D:\3semestr\OOP\OOP_lab7\OOP_lab7\bin\Debug\net8.0\OOP_lab7.runtimeconfig.json
+D:\3semestr\OOP\OOP_lab7\OOP_lab7\bin\Debug\net8.0\OOP_lab7.dll
+D:\3semestr\OOP\OOP_lab7\OOP_lab7\bin\Debug\net8.0\OOP_lab7.pdb
+D:\3semestr\OOP\OOP_lab7\OOP_lab7\obj\Debug\net8.0\OOP_lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\3semestr\OOP\OOP_lab7\OOP_lab7\obj\Debug\net8.0\OOP_lab7.AssemblyInfoInputs.cache
+D:\3semestr\OOP\OOP_lab7\OOP_lab7\obj\Debug\net8.0\OOP_lab7.AssemblyInfo.cs
+D:\3semestr\OOP\OOP_lab7\OOP_lab7\obj\Debug\net8.0\OOP_lab7.csproj.CoreCompileInputs.cache
+D:\3semestr\OOP\OOP_lab7\OOP_lab7\obj\Debug\net8.0\OOP_lab7.dll
+D:\3semestr\OOP\OOP_lab7\OOP_lab7\obj\Debug\net8.0\refint\OOP_lab7.dll
+D:\3semestr\OOP\OOP_lab7\OOP_lab7\obj\Debug\net8.0\OOP_lab7.pdb
+D:\3semestr\OOP\OOP_lab7\OOP_lab7\obj\Debug\net8.0\OOP_lab7.genruntimeconfig.cache
+D:\3semestr\OOP\OOP_lab7\OOP_lab7\obj\Debug\net8.0\ref\OOP_lab7.dll
