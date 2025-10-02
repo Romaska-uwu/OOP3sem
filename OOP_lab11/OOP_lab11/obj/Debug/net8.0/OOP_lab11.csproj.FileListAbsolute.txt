@@ -1,0 +1,14 @@
+D:\3semestr\OOP\OOP_lab11\OOP_lab11\bin\Debug\net8.0\OOP_lab11.exe
+D:\3semestr\OOP\OOP_lab11\OOP_lab11\bin\Debug\net8.0\OOP_lab11.deps.json
+D:\3semestr\OOP\OOP_lab11\OOP_lab11\bin\Debug\net8.0\OOP_lab11.runtimeconfig.json
+D:\3semestr\OOP\OOP_lab11\OOP_lab11\bin\Debug\net8.0\OOP_lab11.dll
+D:\3semestr\OOP\OOP_lab11\OOP_lab11\bin\Debug\net8.0\OOP_lab11.pdb
+D:\3semestr\OOP\OOP_lab11\OOP_lab11\obj\Debug\net8.0\OOP_lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\3semestr\OOP\OOP_lab11\OOP_lab11\obj\Debug\net8.0\OOP_lab11.AssemblyInfoInputs.cache
+D:\3semestr\OOP\OOP_lab11\OOP_lab11\obj\Debug\net8.0\OOP_lab11.AssemblyInfo.cs
+D:\3semestr\OOP\OOP_lab11\OOP_lab11\obj\Debug\net8.0\OOP_lab11.csproj.CoreCompileInputs.cache
+D:\3semestr\OOP\OOP_lab11\OOP_lab11\obj\Debug\net8.0\OOP_lab11.dll
+D:\3semestr\OOP\OOP_lab11\OOP_lab11\obj\Debug\net8.0\refint\OOP_lab11.dll
+D:\3semestr\OOP\OOP_lab11\OOP_lab11\obj\Debug\net8.0\OOP_lab11.pdb
+D:\3semestr\OOP\OOP_lab11\OOP_lab11\obj\Debug\net8.0\OOP_lab11.genruntimeconfig.cache
+D:\3semestr\OOP\OOP_lab11\OOP_lab11\obj\Debug\net8.0\ref\OOP_lab11.dll
