@@ -1,0 +1,14 @@
+D:\3semestr\OOP\OPP_lab6\OPP_lab6\bin\Debug\net8.0\OPP_lab6.exe
+D:\3semestr\OOP\OPP_lab6\OPP_lab6\bin\Debug\net8.0\OPP_lab6.deps.json
+D:\3semestr\OOP\OPP_lab6\OPP_lab6\bin\Debug\net8.0\OPP_lab6.runtimeconfig.json
+D:\3semestr\OOP\OPP_lab6\OPP_lab6\bin\Debug\net8.0\OPP_lab6.dll
+D:\3semestr\OOP\OPP_lab6\OPP_lab6\bin\Debug\net8.0\OPP_lab6.pdb
+D:\3semestr\OOP\OPP_lab6\OPP_lab6\obj\Debug\net8.0\OPP_lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\3semestr\OOP\OPP_lab6\OPP_lab6\obj\Debug\net8.0\OPP_lab6.AssemblyInfoInputs.cache
+D:\3semestr\OOP\OPP_lab6\OPP_lab6\obj\Debug\net8.0\OPP_lab6.AssemblyInfo.cs
+D:\3semestr\OOP\OPP_lab6\OPP_lab6\obj\Debug\net8.0\OPP_lab6.csproj.CoreCompileInputs.cache
+D:\3semestr\OOP\OPP_lab6\OPP_lab6\obj\Debug\net8.0\OPP_lab6.dll
+D:\3semestr\OOP\OPP_lab6\OPP_lab6\obj\Debug\net8.0\refint\OPP_lab6.dll
+D:\3semestr\OOP\OPP_lab6\OPP_lab6\obj\Debug\net8.0\OPP_lab6.pdb
+D:\3semestr\OOP\OPP_lab6\OPP_lab6\obj\Debug\net8.0\OPP_lab6.genruntimeconfig.cache
+D:\3semestr\OOP\OPP_lab6\OPP_lab6\obj\Debug\net8.0\ref\OPP_lab6.dll

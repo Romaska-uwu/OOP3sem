@@ -1,0 +1,12 @@
+03.01.2025 0:07:47: Program started - Демонстрация работы классов
+03.01.2025 0:07:47: Free space check - D:\
+03.01.2025 0:07:47: File system info - D:\
+03.01.2025 0:10:29: Program started - Демонстрация работы классов
+03.01.2025 0:10:29: Free space check - D:\
+03.01.2025 0:10:29: File system info - D:\
+03.01.2025 0:15:59: Program started - Демонстрация работы классов
+03.01.2025 0:15:59: Free space check - D:\
+03.01.2025 0:15:59: File system info - D:\
+03.01.2025 13:40:44: Program started - Демонстрация работы классов
+03.01.2025 13:40:44: Free space check - D:\
+03.01.2025 13:40:44: File system info - D:\
